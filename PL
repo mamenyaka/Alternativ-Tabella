@@ -1,0 +1,261 @@
+18 Aug 12	  Fulham 	5 - 0	  Norwich City 	 1	 +	 +	 +	 5
+18 Aug 12	  QP Rangers 	0 - 5	  Swansea City 	 2	 +	 +	 +	 5
+18 Aug 12	  Reading 	1 - 1	  Stoke City 	 X	 +	 -	 -	 2
+18 Aug 12	  West Bromwich 	3 - 0	  Liverpool 	 1	 +	 +	 -	 3
+18 Aug 12	  West Ham Utd 	1 - 0	  Aston Villa 	 1	 -	 -	 -	 1
+18 Aug 12	  Newcastle Utd 	2 - 1	  Tottenham 	 1	 +	 +	 -	 3
+18 Aug 12	  Arsenal 	0 - 0	  Sunderland 	 X	 -	 -	 -	 0
+19 Aug 12	  Manchester City 	3 - 2	  Southampton 	 1	 +	 +	 +	 5
+19 Aug 12	  Wigan Athletic 	0 - 2	  Chelsea 	 2	 +	 -	 -	 2
+20 Aug 12	  Everton 	1 - 0	  Manchester Utd 	 1	 -	 -	 -	 1
+22 Aug 12	  Chelsea 	4 - 2	  Reading 	 1	 +	 +	 +	 6
+25 Aug 12	  Aston Villa 	1 - 3	  Everton 	 2	 +	 +	 +	 4
+25 Aug 12	  Manchester Utd 	3 - 2	  Fulham 	 1	 +	 +	 +	 5
+25 Aug 12	  Norwich City 	1 - 1	  QP Rangers 	 X	 +	 -	 -	 2
+25 Aug 12	  Southampton 	0 - 2	  Wigan Athletic 	 2	 +	 -	 -	 2
+25 Aug 12	  Tottenham 	1 - 1	  West Bromwich 	 X	 +	 -	 -	 2
+25 Aug 12	  Chelsea 	2 - 0	  Newcastle Utd 	 1	 +	 -	 -	 2
+25 Aug 12	  Swansea City 	3 - 0	  West Ham Utd 	 1	 +	 +	 -	 3
+26 Aug 12	  Stoke City 	0 - 0	  Arsenal 	 X	 -	 -	 -	 0
+26 Aug 12	  Liverpool 	2 - 2	  Manchester City 	 X	 +	 +	 +	 4
+1 Sep 12	  Swansea City 	2 - 2	  Sunderland 	 X	 +	 +	 +	 4
+1 Sep 12	  Tottenham 	1 - 1	  Norwich City 	 X	 +	 -	 -	 2
+1 Sep 12	  West Bromwich 	2 - 0	  Everton 	 1	 +	 -	 -	 2
+1 Sep 12	  Wigan Athletic 	2 - 2	  Stoke City 	 X	 +	 +	 +	 4
+1 Sep 12	  Manchester City 	3 - 1	  QP Rangers 	 1	 +	 +	 +	 4
+1 Sep 12	  West Ham Utd 	3 - 0	  Fulham 	 1	 +	 +	 -	 3
+2 Sep 12	  Southampton 	2 - 3	  Manchester Utd 	 2	 +	 +	 +	 5
+2 Sep 12	  Liverpool 	0 - 2	  Arsenal 	 2	 +	 -	 -	 2
+2 Sep 12	  Newcastle Utd 	1 - 1	  Aston Villa 	 X	 +	 -	 -	 2
+15 Sep 12	  Sunderland 	1 - 1	  Liverpool 	 X	 +	 -	 -	 2
+15 Sep 12	  Stoke City 	1 - 1	  Manchester City 	 X	 +	 -	 -	 2
+15 Sep 12	  QP Rangers 	0 - 0	  Chelsea 	 X	 -	 -	 -	 0
+15 Sep 12	  Manchester Utd 	4 - 0	  Wigan Athletic 	 1	 +	 +	 +	 4
+15 Sep 12	  Fulham 	3 - 0	  West Bromwich 	 1	 +	 +	 -	 3
+15 Sep 12	  Aston Villa 	2 - 0	  Swansea City 	 1	 +	 -	 -	 2
+15 Sep 12	  Norwich City 	0 - 0	  West Ham Utd 	 X	 -	 -	 -	 0
+15 Sep 12	  Arsenal 	6 - 1	  Southampton 	 1	 +	 +	 +	 7
+16 Sep 12	  Reading 	1 - 3	  Tottenham 	 2	 +	 +	 +	 4
+17 Sep 12	  Everton 	2 - 2	  Newcastle Utd 	 X	 +	 +	 +	 4
+22 Sep 12	  Chelsea 	1 - 0	  Stoke City 	 1	 -	 -	 -	 1
+22 Sep 12	  Swansea City 	0 - 3	  Everton 	 2	 +	 +	 -	 3
+22 Sep 12	  Southampton 	4 - 1	  Aston Villa 	 1	 +	 +	 +	 5
+22 Sep 12	  West Bromwich 	1 - 0	  Reading 	 1	 -	 -	 -	 1
+22 Sep 12	  West Ham Utd 	1 - 1	  Sunderland 	 X	 +	 -	 -	 2
+22 Sep 12	  Wigan Athletic 	1 - 2	  Fulham 	 2	 +	 +	 -	 3
+23 Sep 12	  Manchester City 	1 - 1	  Arsenal 	 X	 +	 -	 -	 2
+23 Sep 12	  Tottenham 	2 - 1	  QP Rangers 	 1	 +	 +	 -	 3
+23 Sep 12	  Liverpool 	1 - 2	  Manchester Utd 	 2	 +	 +	 -	 3
+23 Sep 12	  Newcastle Utd 	1 - 0	  Norwich City 	 1	 -	 -	 -	 1
+29 Sep 12	  Everton 	3 - 1	  Southampton 	 1	 +	 +	 +	 4
+29 Sep 12	  Fulham 	1 - 2	  Manchester City 	 2	 +	 +	 -	 3
+29 Sep 12	  Norwich City 	2 - 5	  Liverpool 	 2	 +	 +	 +	 7
+29 Sep 12	  Reading 	2 - 2	  Newcastle Utd 	 X	 +	 +	 +	 4
+29 Sep 12	  Stoke City 	2 - 0	  Swansea City 	 1	 +	 -	 -	 2
+29 Sep 12	  Sunderland 	1 - 0	  Wigan Athletic 	 1	 -	 -	 -	 1
+29 Sep 12	  Manchester Utd 	2 - 3	  Tottenham 	 2	 +	 +	 +	 5
+29 Sep 12	  Arsenal 	1 - 2	  Chelsea 	 2	 +	 +	 -	 3
+30 Sep 12	  Aston Villa 	1 - 1	  West Bromwich 	 X	 +	 -	 -	 2
+1 Oct 12	  QP Rangers 	1 - 2	  West Ham Utd 	 2	 +	 +	 -	 3
+6 Oct 12	  Manchester City 	3 - 0	  Sunderland 	 1	 +	 +	 -	 3
+6 Oct 12	  Chelsea 	4 - 1	  Norwich City 	 1	 +	 +	 +	 5
+6 Oct 12	  Swansea City 	2 - 2	  Reading 	 X	 +	 +	 +	 4
+6 Oct 12	  West Bromwich 	3 - 2	  QP Rangers 	 1	 +	 +	 +	 5
+6 Oct 12	  Wigan Athletic 	2 - 2	  Everton 	 X	 +	 +	 +	 4
+6 Oct 12	  West Ham Utd 	1 - 3	  Arsenal 	 2	 +	 +	 +	 4
+7 Oct 12	  Liverpool 	0 - 0	  Stoke City 	 X	 -	 -	 -	 0
+7 Oct 12	  Southampton 	2 - 2	  Fulham 	 X	 +	 +	 +	 4
+7 Oct 12	  Tottenham 	2 - 0	  Aston Villa 	 1	 +	 -	 -	 2
+7 Oct 12	  Newcastle Utd 	0 - 3	  Manchester Utd 	 2	 +	 +	 -	 3
+20 Oct 12	  West Bromwich 	1 - 2	  Manchester City 	 2	 +	 +	 -	 3
+20 Oct 12	  Tottenham 	2 - 4	  Chelsea 	 2	 +	 +	 +	 6
+20 Oct 12	  Fulham 	1 - 0	  Aston Villa 	 1	 -	 -	 -	 1
+20 Oct 12	  Liverpool 	1 - 0	  Reading 	 1	 -	 -	 -	 1
+20 Oct 12	  West Ham Utd 	4 - 1	  Southampton 	 1	 +	 +	 +	 5
+20 Oct 12	  Norwich City 	1 - 0	  Arsenal 	 1	 -	 -	 -	 1
+20 Oct 12	  Swansea City 	2 - 1	  Wigan Athletic 	 1	 +	 +	 -	 3
+20 Oct 12	  Manchester Utd 	4 - 2	  Stoke City 	 1	 +	 +	 +	 6
+21 Oct 12	  Sunderland 	1 - 1	  Newcastle Utd 	 X	 +	 -	 -	 2
+21 Oct 12	  QP Rangers 	1 - 1	  Everton 	 X	 +	 -	 -	 2
+27 Oct 12	  Arsenal 	1 - 0	  QP Rangers 	 1	 -	 -	 -	 1
+27 Oct 12	  Aston Villa 	1 - 1	  Norwich City 	 X	 +	 -	 -	 2
+27 Oct 12	  Manchester City 	1 - 0	  Swansea City 	 1	 -	 -	 -	 1
+27 Oct 12	  Wigan Athletic 	2 - 1	  West Ham Utd 	 1	 +	 +	 -	 3
+27 Oct 12	  Stoke City 	0 - 0	  Sunderland 	 X	 -	 -	 -	 0
+27 Oct 12	  Reading 	3 - 3	  Fulham 	 X	 +	 +	 +	 6
+28 Oct 12	  Everton 	2 - 2	  Liverpool 	 X	 +	 +	 +	 4
+28 Oct 12	  Chelsea 	2 - 3	  Manchester Utd 	 2	 +	 +	 +	 5
+28 Oct 12	  Southampton 	1 - 2	  Tottenham 	 2	 +	 +	 -	 3
+28 Oct 12	  Newcastle Utd 	2 - 1	  West Bromwich 	 1	 +	 +	 -	 3
+3 Nov 12	  Fulham 	2 - 2	  Everton 	 X	 +	 +	 +	 4
+3 Nov 12	  Norwich City 	1 - 0	  Stoke City 	 1	 -	 -	 -	 1
+3 Nov 12	  Sunderland 	0 - 1	  Aston Villa 	 2	 -	 -	 -	 1
+3 Nov 12	  Swansea City 	1 - 1	  Chelsea 	 X	 +	 -	 -	 2
+3 Nov 12	  Tottenham 	0 - 1	  Wigan Athletic 	 2	 -	 -	 -	 1
+3 Nov 12	  West Ham Utd 	0 - 0	  Manchester City 	 X	 -	 -	 -	 0
+3 Nov 12	  Manchester Utd 	2 - 1	  Arsenal 	 1	 +	 +	 -	 3
+4 Nov 12	  QP Rangers 	1 - 1	  Reading 	 X	 +	 -	 -	 2
+4 Nov 12	  Liverpool 	1 - 1	  Newcastle Utd 	 X	 +	 -	 -	 2
+5 Nov 12	  West Bromwich 	2 - 0	  Southampton 	 1	 +	 -	 -	 2
+10 Nov 12	  Everton 	2 - 1	  Sunderland 	 1	 +	 +	 -	 3
+10 Nov 12	  Aston Villa 	2 - 3	  Manchester Utd 	 2	 +	 +	 +	 5
+10 Nov 12	  Wigan Athletic 	1 - 2	  West Bromwich 	 2	 +	 +	 -	 3
+10 Nov 12	  Stoke City 	1 - 0	  QP Rangers 	 1	 -	 -	 -	 1
+10 Nov 12	  Southampton 	1 - 1	  Swansea City 	 X	 +	 -	 -	 2
+10 Nov 12	  Reading 	0 - 0	  Norwich City 	 X	 -	 -	 -	 0
+10 Nov 12	  Arsenal 	3 - 3	  Fulham 	 X	 +	 +	 +	 6
+11 Nov 12	  Manchester City 	2 - 1	  Tottenham 	 1	 +	 +	 -	 3
+11 Nov 12	  Chelsea 	1 - 1	  Liverpool 	 X	 +	 -	 -	 2
+11 Nov 12	  Newcastle Utd 	0 - 1	  West Ham Utd 	 2	 -	 -	 -	 1
+17 Nov 12	  QP Rangers 	1 - 3	  Southampton 	 2	 +	 +	 +	 4
+17 Nov 12	  Reading 	2 - 1	  Everton 	 1	 +	 +	 -	 3
+17 Nov 12	  Arsenal 	5 - 2	  Tottenham 	 1	 +	 +	 +	 7
+17 Nov 12	  Liverpool 	3 - 0	  Wigan Athletic 	 1	 +	 +	 -	 3
+17 Nov 12	  Manchester City 	5 - 0	  Aston Villa 	 1	 +	 +	 +	 5
+17 Nov 12	  West Bromwich 	2 - 1	  Chelsea 	 1	 +	 +	 -	 3
+17 Nov 12	  Norwich City 	1 - 0	  Manchester Utd 	 1	 -	 -	 -	 1
+17 Nov 12	  Newcastle Utd 	1 - 2	  Swansea City 	 2	 +	 +	 -	 3
+18 Nov 12	  Fulham 	1 - 3	  Sunderland 	 2	 +	 +	 +	 4
+19 Nov 12	  West Ham Utd 	1 - 1	  Stoke City 	 X	 +	 -	 -	 2
+24 Nov 12	  Aston Villa 	0 - 0	  Arsenal 	 X	 -	 -	 -	 0
+24 Nov 12	  Sunderland 	2 - 4	  West Bromwich 	 2	 +	 +	 +	 6
+24 Nov 12	  Wigan Athletic 	3 - 2	  Reading 	 1	 +	 +	 +	 5
+24 Nov 12	  Stoke City 	1 - 0	  Fulham 	 1	 -	 -	 -	 1
+24 Nov 12	  Manchester Utd 	3 - 1	  QP Rangers 	 1	 +	 +	 +	 4
+24 Nov 12	  Everton 	1 - 1	  Norwich City 	 X	 +	 -	 -	 2
+25 Nov 12	  Swansea City 	0 - 0	  Liverpool 	 X	 -	 -	 -	 0
+25 Nov 12	  Tottenham 	3 - 1	  West Ham Utd 	 1	 +	 +	 +	 4
+25 Nov 12	  Southampton 	2 - 0	  Newcastle Utd 	 1	 +	 -	 -	 2
+25 Nov 12	  Chelsea 	0 - 0	  Manchester City 	 X	 -	 -	 -	 0
+27 Nov 12	  Sunderland 	0 - 0	  QP Rangers 	 X	 -	 -	 -	 0
+27 Nov 12	  Aston Villa 	1 - 0	  Reading 	 1	 -	 -	 -	 1
+28 Nov 12	  Manchester Utd 	1 - 0	  West Ham Utd 	 1	 -	 -	 -	 1
+28 Nov 12	  Everton 	1 - 1	  Arsenal 	 X	 +	 -	 -	 2
+28 Nov 12	  Chelsea 	0 - 0	  Fulham 	 X	 -	 -	 -	 0
+28 Nov 12	  Tottenham 	2 - 1	  Liverpool 	 1	 +	 +	 -	 3
+28 Nov 12	  Stoke City 	2 - 1	  Newcastle Utd 	 1	 +	 +	 -	 3
+28 Nov 12	  Southampton 	1 - 1	  Norwich City 	 X	 +	 -	 -	 2
+28 Nov 12	  Wigan Athletic 	0 - 2	  Manchester City 	 2	 +	 -	 -	 2
+28 Nov 12	  Swansea City 	3 - 1	  West Bromwich 	 1	 +	 +	 +	 4
+1 Dec 12	  QP Rangers 	1 - 1	  Aston Villa 	 X	 +	 -	 -	 2
+1 Dec 12	  West Ham Utd 	3 - 1	  Chelsea 	 1	 +	 +	 +	 4
+1 Dec 12	  Reading 	3 - 4	  Manchester Utd 	 2	 +	 +	 +	 7
+1 Dec 12	  Manchester City 	1 - 1	  Everton 	 X	 +	 -	 -	 2
+1 Dec 12	  Liverpool 	1 - 0	  Southampton 	 1	 -	 -	 -	 1
+1 Dec 12	  Fulham 	0 - 3	  Tottenham 	 2	 +	 +	 -	 3
+1 Dec 12	  Arsenal 	0 - 2	  Swansea City 	 2	 +	 -	 -	 2
+1 Dec 12	  West Bromwich 	0 - 1	  Stoke City 	 2	 -	 -	 -	 1
+2 Dec 12	  Norwich City 	2 - 1	  Sunderland 	 1	 +	 +	 -	 3
+3 Dec 12	  Newcastle Utd 	3 - 0	  Wigan Athletic 	 1	 +	 +	 -	 3
+8 Dec 12	  Southampton 	1 - 0	  Reading 	 1	 -	 -	 -	 1
+8 Dec 12	  Sunderland 	1 - 3	  Chelsea 	 2	 +	 +	 +	 4
+8 Dec 12	  Arsenal 	2 - 0	  West Bromwich 	 1	 +	 -	 -	 2
+8 Dec 12	  Aston Villa 	0 - 0	  Stoke City 	 X	 -	 -	 -	 0
+8 Dec 12	  Swansea City 	3 - 4	  Norwich City 	 2	 +	 +	 +	 7
+8 Dec 12	  Wigan Athletic 	2 - 2	  QP Rangers 	 X	 +	 +	 +	 4
+9 Dec 12	  Everton 	2 - 1	  Tottenham 	 1	 +	 +	 -	 3
+9 Dec 12	  West Ham Utd 	2 - 3	  Liverpool 	 2	 +	 +	 +	 5
+9 Dec 12	  Manchester City 	2 - 3	  Manchester Utd 	 2	 +	 +	 +	 5
+10 Dec 12	  Fulham 	2 - 1	  Newcastle Utd 	 1	 +	 +	 -	 3
+11 Dec 12	  Sunderland 	3 - 0	  Reading 	 1	 +	 +	 -	 3
+15 Dec 12	  Liverpool 	1 - 3	  Aston Villa 	 2	 +	 +	 +	 4
+15 Dec 12	  Manchester Utd 	3 - 1	  Sunderland 	 1	 +	 +	 +	 4
+15 Dec 12	  Newcastle Utd 	1 - 3	  Manchester City 	 2	 +	 +	 +	 4
+15 Dec 12	  Norwich City 	2 - 1	  Wigan Athletic 	 1	 +	 +	 -	 3
+15 Dec 12	  QP Rangers 	2 - 1	  Fulham 	 1	 +	 +	 -	 3
+15 Dec 12	  Stoke City 	1 - 1	  Everton 	 X	 +	 -	 -	 2
+16 Dec 12	  Tottenham 	1 - 0	  Swansea City 	 1	 -	 -	 -	 1
+16 Dec 12	  West Bromwich 	0 - 0	  West Ham Utd 	 X	 -	 -	 -	 0
+17 Dec 12	  Reading 	2 - 5	  Arsenal 	 2	 +	 +	 +	 7
+22 Dec 12	  Liverpool 	4 - 0	  Fulham 	 1	 +	 +	 +	 4
+22 Dec 12	  Manchester City 	1 - 0	  Reading 	 1	 -	 -	 -	 1
+22 Dec 12	  Newcastle Utd 	1 - 0	  QP Rangers 	 1	 -	 -	 -	 1
+22 Dec 12	  Southampton 	0 - 1	  Sunderland 	 2	 -	 -	 -	 1
+22 Dec 12	  Tottenham 	0 - 0	  Stoke City 	 X	 -	 -	 -	 0
+22 Dec 12	  West Bromwich 	2 - 1	  Norwich City 	 1	 +	 +	 -	 3
+22 Dec 12	  West Ham Utd 	1 - 2	  Everton 	 2	 +	 +	 -	 3
+22 Dec 12	  Wigan Athletic 	0 - 1	  Arsenal 	 2	 -	 -	 -	 1
+23 Dec 12	  Swansea City 	1 - 1	  Manchester Utd 	 X	 +	 -	 -	 2
+23 Dec 12	  Chelsea 	8 - 0	  Aston Villa 	 1	 +	 +	 +	 8
+26 Dec 12	  Manchester Utd 	4 - 3	  Newcastle Utd 	 1	 +	 +	 +	 7
+26 Dec 12	  Sunderland 	1 - 0	  Manchester City 	 1	 -	 -	 -	 1
+26 Dec 12	  Stoke City 	3 - 1	  Liverpool 	 1	 +	 +	 +	 4
+26 Dec 12	  Reading 	0 - 0	  Swansea City 	 X	 -	 -	 -	 0
+26 Dec 12	  Norwich City 	0 - 1	  Chelsea 	 2	 -	 -	 -	 1
+26 Dec 12	  Fulham 	1 - 1	  Southampton 	 X	 +	 -	 -	 2
+26 Dec 12	  Everton 	2 - 1	  Wigan Athletic 	 1	 +	 +	 -	 3
+26 Dec 12	  Aston Villa 	0 - 4	  Tottenham 	 2	 +	 +	 +	 4
+26 Dec 12	  QP Rangers 	1 - 2	  West Bromwich 	 2	 +	 +	 -	 3
+29 Dec 12	  Sunderland 	1 - 2	  Tottenham 	 2	 +	 +	 -	 3
+29 Dec 12	  Arsenal 	7 - 3	  Newcastle Utd 	 1	 +	 +	 +	 10
+29 Dec 12	  Aston Villa 	0 - 3	  Wigan Athletic 	 2	 +	 +	 -	 3
+29 Dec 12	  Fulham 	1 - 2	  Swansea City 	 2	 +	 +	 -	 3
+29 Dec 12	  Manchester Utd 	2 - 0	  West Bromwich 	 1	 +	 -	 -	 2
+29 Dec 12	  Norwich City 	3 - 4	  Manchester City 	 2	 +	 +	 +	 7
+29 Dec 12	  Reading 	1 - 0	  West Ham Utd 	 1	 -	 -	 -	 1
+29 Dec 12	  Stoke City 	3 - 3	  Southampton 	 X	 +	 +	 +	 6
+30 Dec 12	  Everton 	1 - 2	  Chelsea 	 2	 +	 +	 -	 3
+30 Dec 12	  QP Rangers 	0 - 3	  Liverpool 	 2	 +	 +	 -	 3
+1 Jan 13	  Tottenham 	3 - 1	  Reading 	 1	 +	 +	 +	 4
+1 Jan 13	  Wigan Athletic 	0 - 4	  Manchester Utd 	 2	 +	 +	 +	 4
+1 Jan 13	  West Bromwich 	1 - 2	  Fulham 	 2	 +	 +	 -	 3
+1 Jan 13	  Swansea City 	2 - 2	  Aston Villa 	 X	 +	 +	 +	 4
+1 Jan 13	  Southampton 	1 - 1	  Arsenal 	 X	 +	 -	 -	 2
+1 Jan 13	  Manchester City 	3 - 0	  Stoke City 	 1	 +	 +	 -	 3
+1 Jan 13	  West Ham Utd 	2 - 1	  Norwich City 	 1	 +	 +	 -	 3
+2 Jan 13	  Newcastle Utd 	1 - 2	  Everton 	 2	 +	 +	 -	 3
+2 Jan 13	  Liverpool 	3 - 0	  Sunderland 	 1	 +	 +	 -	 3
+2 Jan 13	  Chelsea 	0 - 1	  QP Rangers 	 2	 -	 -	 -	 1
+12 Jan 13	  Sunderland 	3 - 0	  West Ham Utd 	 1	 +	 +	 -	 3
+12 Jan 13	  Stoke City 	0 - 4	  Chelsea 	 2	 +	 +	 +	 4
+12 Jan 13	  Aston Villa 	0 - 1	  Southampton 	 2	 -	 -	 -	 1
+12 Jan 13	  Everton 	0 - 0	  Swansea City 	 X	 -	 -	 -	 0
+12 Jan 13	  Fulham 	1 - 1	  Wigan Athletic 	 X	 +	 -	 -	 2
+12 Jan 13	  Norwich City 	0 - 0	  Newcastle Utd 	 X	 -	 -	 -	 0
+12 Jan 13	  QP Rangers 	0 - 0	  Tottenham 	 X	 -	 -	 -	 0
+12 Jan 13	  Reading 	3 - 2	  West Bromwich 	 1	 +	 +	 +	 5
+13 Jan 13	  Arsenal 	0 - 2	  Manchester City 	 2	 +	 -	 -	 2
+13 Jan 13	  Manchester Utd 	2 - 1	  Liverpool 	 1	 +	 +	 -	 3
+16 Jan 13	  Chelsea 	2 - 2	  Southampton 	 X	 +	 +	 +	 4
+19 Jan 13	  West Ham Utd 	1 - 1	  QP Rangers 	 X	 +	 -	 -	 2
+19 Jan 13	  Manchester City 	2 - 0	  Fulham 	 1	 +	 -	 -	 2
+19 Jan 13	  West Bromwich 	2 - 2	  Aston Villa 	 X	 +	 +	 +	 4
+19 Jan 13	  Newcastle Utd 	1 - 2	  Reading 	 2	 +	 +	 -	 3
+19 Jan 13	  Liverpool 	5 - 0	  Norwich City 	 1	 +	 +	 +	 5
+19 Jan 13	  Swansea City 	3 - 1	  Stoke City 	 1	 +	 +	 +	 4
+19 Jan 13	  Wigan Athletic 	2 - 3	  Sunderland 	 2	 +	 +	 +	 5
+20 Jan 13	  Tottenham 	1 - 1	  Manchester Utd 	 X	 +	 -	 -	 2
+20 Jan 13	  Chelsea 	2 - 1	  Arsenal 	 1	 +	 +	 -	 3
+21 Jan 13	  Southampton 	0 - 0	  Everton 	 X	 -	 -	 -	 0
+23 Jan 13	  Arsenal 	5 - 1	  West Ham Utd 	 1	 +	 +	 +	 6
+29 Jan 13	  QP Rangers 	0 - 0	  Manchester City 	 X	 -	 -	 -	 0
+29 Jan 13	  Aston Villa 	1 - 2	  Newcastle Utd 	 2	 +	 +	 -	 3
+29 Jan 13	  Stoke City 	2 - 2	  Wigan Athletic 	 X	 +	 +	 +	 4
+29 Jan 13	  Sunderland 	0 - 0	  Swansea City 	 X	 -	 -	 -	 0
+30 Jan 13	  Fulham 	3 - 1	  West Ham Utd 	 1	 +	 +	 +	 4
+30 Jan 13	  Everton 	2 - 1	  West Bromwich 	 1	 +	 +	 -	 3
+30 Jan 13	  Arsenal 	2 - 2	  Liverpool 	 X	 +	 +	 +	 4
+30 Jan 13	  Norwich City 	1 - 1	  Tottenham 	 X	 +	 -	 -	 2
+30 Jan 13	  Manchester Utd 	2 - 1	  Southampton 	 1	 +	 +	 -	 3
+30 Jan 13	  Reading 	2 - 2	  Chelsea 	 X	 +	 +	 +	 4
+2 Feb 13	  Wigan Athletic 	2 - 2	  Southampton 	 X	 +	 +	 +	 4
+2 Feb 13	  Everton 	3 - 3	  Aston Villa 	 X	 +	 +	 +	 6
+2 Feb 13	  Fulham 	0 - 1	  Manchester Utd 	 2	 -	 -	 -	 1
+2 Feb 13	  Newcastle Utd 	3 - 2	  Chelsea 	 1	 +	 +	 +	 5
+2 Feb 13	  QP Rangers 	0 - 0	  Norwich City 	 X	 -	 -	 -	 0
+2 Feb 13	  Reading 	2 - 1	  Sunderland 	 1	 +	 +	 -	 3
+2 Feb 13	  West Ham Utd 	1 - 0	  Swansea City 	 1	 -	 -	 -	 1
+2 Feb 13	  Arsenal 	1 - 0	  Stoke City 	 1	 -	 -	 -	 1
+3 Feb 13	  Manchester City 	2 - 2	  Liverpool 	 X	 +	 +	 +	 4
+3 Feb 13	  West Bromwich 	0 - 1	  Tottenham 	 2	 -	 -	 -	 1
+9 Feb 13	  Chelsea 	4 - 1	  Wigan Athletic 	 1	 +	 +	 +	 5
+9 Feb 13	  Norwich City 	0 - 0	  Fulham 	 X	 -	 -	 -	 0
+9 Feb 13	  Southampton 	3 - 1	  Manchester City 	 1	 +	 +	 +	 4
+9 Feb 13	  Stoke City 	2 - 1	  Reading 	 1	 +	 +	 -	 3
+9 Feb 13	  Sunderland 	0 - 1	  Arsenal 	 2	 -	 -	 -	 1
+9 Feb 13	  Swansea City 	4 - 1	  QP Rangers 	 1	 +	 +	 +	 5
+9 Feb 13	  Tottenham 	2 - 1	  Newcastle Utd 	 1	 +	 +	 -	 3
+10 Feb 13	  Manchester Utd 	2 - 0	  Everton 	 1	 +	 -	 -	 2
+10 Feb 13	  Aston Villa 	2 - 1	  West Ham Utd 	 1	 +	 +	 -	 3
+11 Feb 13	  Liverpool 	0 - 2	  West Bromwich 	 2	 +	 -	 -	 2
+
