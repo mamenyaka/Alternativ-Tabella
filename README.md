@@ -8,4 +8,5 @@ Futtatás
 ========
 
 $ cc ESPtabella.c -o ESPtabella -lm
+
 $ ./ESPtabella <LaLiga
