@@ -64,7 +64,7 @@ matrix2kiir (double A[CSAPATDB][CSAPATDB])
 void
 kiir (double hv[CSAPATDB], int a[CSAPATDB][CSAPATDB])
 {
-  FILE *fp = fopen ("kimuk", "w");
+  FILE *fp = fopen ("ki_PL", "w");
 
   struct csapat
   {
