@@ -7,6 +7,6 @@ http://hu.wikipedia.org/wiki/Alternat%C3%ADv_tabella
 Futtatás
 ========
 
-$ cc ESPtabella.c -o ESPtabella -lm
+$ cc LaLiga.c -o LaLiga -lm
 
-$ ./ESPtabella <LaLiga
+$ ./LaLiga <be_LaLiga
